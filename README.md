@@ -12,11 +12,14 @@ python==2.3.10<br>
 torch==1.10.0<br>
 torchvision==0.11.1
 ### Train & Inference
+```
 Train: python MRDAN.py<br>
 Test:  python MRDAN_test.py<br>
+```
 
 ## Citation
 If you find this repository/work helpful in your research, welcome to cite the paper.<br>
+```
 @ARTICLE{9930794,<br>
   author={Niu, Ben and Pan, Zongxu and Wu, Jixiang and Hu, Yuxin and Lei, Bin},<br>
   journal={IEEE Transactions on Geoscience and Remote Sensing}, <br>
@@ -26,3 +29,4 @@ If you find this repository/work helpful in your research, welcome to cite the p
   number={},<br>
   pages={1-19},<br>
   doi={10.1109/TGRS.2022.3217180}}
+```
