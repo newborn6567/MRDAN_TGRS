@@ -7,12 +7,9 @@ In recent years, convolutional neural networks (CNNs) have made significant prog
 
 ## Usage
 ### Request
-numpy<1.24
-
-python==2.3.10
-
-torch==1.10.0
-
+numpy<1.24<br>
+python==2.3.10<br>
+torch==1.10.0<br>
 torchvision==0.11.1
 ### Train & Inference
 ```
