@@ -6,4 +6,23 @@ In recent years, convolutional neural networks (CNNs) have made significant prog
 ![img erro](MRDAN.png)
 
 ## Usage
+### Request
+numpy<1.24
+python==2.3.10
+torch==1.10.0
+torchvision==0.11.1
+### Train & Inference
+Train: python MRDAN.py
+Test:  python MRDAN_test.py
 
+##Citation
+If you find this repository/work helpful in your research, welcome to cite the paper.
+@ARTICLE{9930794,
+  author={Niu, Ben and Pan, Zongxu and Wu, Jixiang and Hu, Yuxin and Lei, Bin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Multi-Representation Dynamic Adaptation Network for Remote Sensing Scene Classification}, 
+  year={2022},
+  volume={60},
+  number={},
+  pages={1-19},
+  doi={10.1109/TGRS.2022.3217180}}
